@@ -16,8 +16,8 @@
                         <div class="header-column">
                             <div class="header-row">
                                 <div class="header-logo">
-                                    <a href="demo-photography-2.html">
-                                        <img alt="Porto" width="150" height="39" src="<?php echo base_url('public/images/logo-photography-2.png') ?>">
+                                    <a href="<?php echo base_url()?>">
+                                        <img alt="Porto" width="150" height="39" src="<?php echo base_url('public/images/tepian white.png') ?>">
                                     </a>
                                 </div>
                             </div>
@@ -40,15 +40,6 @@
                                  data-bgfit="cover" 
                                  data-bgrepeat="no-repeat" 
                                  data-bgparallax="1" 
-                                 class="rev-slidebg">
-                        </li>
-                        <li data-transition="fade">
-                            <img src="<?php echo base_url('public/images/about/about-us-slide-2.jpg') ?>"  
-                                 alt=""
-                                 data-bgposition="center center" 
-                                 data-bgfit="cover" 
-                                 data-bgrepeat="no-repeat" 
-                                 data-bgparallax="2" 
                                  class="rev-slidebg">
                         </li>
                     </ul>
@@ -246,7 +237,7 @@
                             <div class="feature-box feature-box-style-2 align-items-center">
                                 <div class="feature-box-info">
                                     <table class="table-fill">
-                                        <thead><tr><th class="text-center">Outdoor pre-Wedding Only<br/></th></tr></thead>
+                                        <thead><tr><th class="text-center">Outdoor Pre-Wedding Only<br/></th></tr></thead>
                                         <tbody class="table-hover">
                                             <tr><td class="text-left">Photo & video documentation</td></tr>
                                             <tr><td class="text-left">Cinematic video clip</td></tr>
@@ -313,21 +304,6 @@
                         </div>
                     </div><br/><br/>
                     <div class="row mb-4">
-                        <div class="col-lg-4">
-                            <div class="feature-box feature-box-style-2 align-items-center">
-                                <div class="feature-box-info">
-                                    <table class="table-fill">
-                                        <thead><tr><th class="text-center">Family/Group/Baby</th></tr></thead>
-                                        <tbody class="table-hover">
-                                            <tr><td class="text-left">Photo documentation</td></tr>
-                                            <tr><td class="text-left">16Gb Flashdisk <br/>(all photo, after & before edit)</td></tr>
-                                            <tr><td class="text-left"><br/></td></tr>
-                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">Start from IDR 350</td></tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                        </div>
                         <div class="col-lg-4 mb-4 mb-lg-0">
                             <div class="feature-box feature-box-style-2 align-items-center">
                                 <div class="feature-box-info">
@@ -338,6 +314,21 @@
                                             <tr><td class="text-left">Cinematic video clip</td></tr>
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
                                             <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.500</td></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="feature-box feature-box-style-2 align-items-center">
+                                <div class="feature-box-info">
+                                    <table class="table-fill">
+                                        <thead><tr><th class="text-center">Family/Group/Baby</th></tr></thead>
+                                        <tbody class="table-hover">
+                                            <tr><td class="text-left">Photo documentation</td></tr>
+                                            <tr><td class="text-left">16Gb Flashdisk <br/>(all photo, after & before edit)</td></tr>
+                                            <tr><td class="text-left"><br/></td></tr>
+                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">Start from IDR 350</td></tr>
                                         </tbody>
                                     </table>
                                 </div>

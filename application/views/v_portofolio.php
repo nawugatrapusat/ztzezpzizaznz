@@ -18,8 +18,8 @@
                         <div class="header-column">
                             <div class="header-row">
                                 <div class="header-logo">
-                                    <a href="demo-photography-2.html">
-                                        <img alt="Porto" width="150" height="39" src="<?php echo base_url('public/images/logo-photography-2.png')?>">
+                                    <a href="<?php echo base_url()?>">
+                                        <img alt="Porto" width="150" height="39" src="<?php echo base_url('public/images/tepian white.png')?>">
                                     </a>
                                 </div>
                             </div>
@@ -108,78 +108,7 @@
                                 </span>
                             </div>
                         </div>
-                        <div class="owl-carousel owl-theme manual thumb-gallery-thumbs show-thumbs mt" id="thumbGalleryThumbs">
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/travel/3-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/travel/2-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/travel/1-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/wedding/1-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/wedding/3-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/wedding/2-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/lifestyle/2-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/lifestyle/3-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/lifestyle/1-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/family/2-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/family/1-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/family/3-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/landscape/1-thumb.jpg')?>">
-                                </span>
-                            </div>
-                            <div>
-                                <span class="img-thumbnail d-block cur-pointer">
-                                    <img alt="" src="<?php echo base_url('public/images/gallery/landscape/3-thumb.jpg')?>">
-                                </span>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
                 <ul id="portfolioGrid" class="p-0" data-grid-sizer=".col-lg-3">

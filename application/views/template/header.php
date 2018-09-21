@@ -21,7 +21,7 @@
 		<meta name="author" content="tepian.id">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="<?php echo base_url('public/images/favicon.ico')?>" type="image/x-icon" />
+		<link rel="shortcut icon" href="<?php echo base_url('public/images/favicon.png')?>" type="image/x-icon" />
 		<link rel="apple-touch-icon" href="<?php echo base_url('public/images/apple-touch-icon.png')?>">
 
 		<!-- Mobile Metas -->

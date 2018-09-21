@@ -17,8 +17,8 @@
                         <div class="header-column">
                             <div class="header-row">
                                 <div class="header-logo">
-                                    <a href="demo-photography-2.html">
-                                        <img alt="Porto" width="150" height="39" src="<?php echo base_url('public/images/logo-photography-2.png')?>">
+                                    <a href="<?php echo base_url()?>">
+                                        <img alt="Porto" width="150" height="39" src="<?php echo base_url('public/images/tepian white.png')?>">
                                     </a>
                                 </div>
                             </div>
