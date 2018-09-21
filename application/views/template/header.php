@@ -51,7 +51,7 @@
 		<link rel="stylesheet" href="<?php echo base_url('public/vendor/rs-plugin/css/navigation.css')?>">
 		
 		<!-- Demo CSS -->
-		<link rel="stylesheet" href="<?php echo base_url('public/css/demos/demo-photography-2.css')?>">
+		<link rel="stylesheet" href="<?php echo base_url('public/css/default/default.css')?>">
 
 		<!-- Skin CSS -->
 		<link rel="stylesheet" href="<?php echo base_url('public/css/skins/skin-photography.css')?>">		
