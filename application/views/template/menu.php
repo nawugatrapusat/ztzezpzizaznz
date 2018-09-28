@@ -10,22 +10,17 @@
             <div class="header-nav-main header-nav-main-photography-effect-1 header-nav-main-sub-effect-1">
                 <nav class="collapse">
                     <ul class="nav nav-pills" id="mainNav">
-                        <li class="dropdown-primary">
+<!--                        <li class="dropdown-primary">
                             <a class="nav-link <?php echo $home;?>" href="<?php echo base_url()?>">
                                 Home
                             </a>
-                        </li>
-<!--                        <li class="dropdown dropdown-primary">
-                            <a class="nav-link <?php echo $about;?>" href="<?php echo base_url('about')?>">
-                                About
-                            </a>
                         </li>-->
 
-                        <li class="nav-link dropdown-primary">
+<!--                        <li class="nav-link dropdown-primary">
                             <a class="nav-link <?php echo $portofolio;?>" href="<?php echo base_url('portofolio')?>">
                                 Portfolio
                             </a>
-                        </li>
+                        </li>-->
                         <li class="nav-link dropdown-primary">
                             <a class="nav-link <?php echo $contact;?>" href="<?php echo base_url('contact')?>">
                                 Contact

@@ -47,16 +47,25 @@
                     <div class="tp-static-layers">
                         <h1 class="tp-caption tp-caption-photo-label tp-caption-main-custom tp-static-layer font-weight-normal text-color-light"
                             data-x="center" data-hoffset="0"
-                            data-y="center" data-voffset="0"
+                            data-y="center" data-voffset="-50"
+                            data-start="200"
+                            data-basealign="slide" 
+                            data-startslide="0"
+                            data-endslide="99"
+                            data-transform_in="y:[-300%];opacity:0;s:500;" style="font-size: 56px;">We Are</h1>
+                            
+                        <h1 class="tp-caption tp-caption-photo-label tp-caption-main-custom tp-static-layer font-weight-normal text-color-light"
+                            data-x="center" data-hoffset="0"
+                            data-y="center" data-voffset="40"
                             data-start="500"
                             data-basealign="slide" 
                             data-startslide="0"
                             data-endslide="99"
-                            data-transform_in="y:[-300%];opacity:0;s:500;" style="font-size: 56px;">We Are Tepian Photowork</h1>
+                            data-transform_in="y:[-300%];opacity:0;s:500;" style="font-size: 56px;">Tepian Photowork</h1>
 
                         <div class="tp-caption tp-caption-photo-label tp-caption-sub-custom tp-static-layer text-color-light"
                              data-x="center" data-hoffset="0"
-                             data-y="center" data-voffset="60"
+                             data-y="center" data-voffset="170"
                              data-start="800"
                              data-basealign="slide" 
                              data-startslide="0" 
@@ -75,7 +84,7 @@
                     </div>
                 </div>
             </section>-->
-            <section class="section our-services">
+<!--            <section class="section our-services">
                 <div class="container">
                     <div class="row text-center mb-3">
                         <div class="col">
@@ -147,7 +156,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section>-->
             <section class="section section-quaternary why-choose-us">
                 <div class="container">
                     <div class="row text-center mb-5">
@@ -208,10 +217,10 @@
                                         <thead><tr><th class="text-center">Wedding Only</th></tr></thead>
                                         <tbody class="table-hover">
                                             <tr><td class="text-left">Photo & video documentation</td></tr>
-                                            <tr><td class="text-left">Medium photo album (50 Photo)</td></tr>
-                                            <tr><td class="text-left">19R photo</td></tr>
+                                            <tr><td class="text-left">Medium photobook album (50 Photo)</td></tr>
+                                            <tr><td class="text-left">40x50cm photo</td></tr>
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
-                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 2.200</td></tr>
+                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.700</td></tr>
                                         </tbody>
                                     </table>
                                 </div>
@@ -224,45 +233,45 @@
                                         <thead><tr><th class="text-center">Akad Only</th></tr></thead>
                                         <tbody class="table-hover">
                                             <tr><td class="text-left">Photo & video documentation</td></tr>
-                                            <tr><td class="text-left">Medium photo album (50 Photo)</td></tr>
-                                            <tr><td class="text-left">19R photo</td></tr>
+                                            <tr><td class="text-left">Medium photobook album (50 Photo)</td></tr>
+                                            <tr><td class="text-left">40x50cm photo</td></tr>
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
-                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 2.200</td></tr>
+                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.700</td></tr>
                                         </tbody>
                                     </table>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 mb-4 mb-lg-0">
                             <div class="feature-box feature-box-style-2 align-items-center">
                                 <div class="feature-box-info">
                                     <table class="table-fill">
                                         <thead><tr><th class="text-center">Outdoor Pre-Wedding Only<br/></th></tr></thead>
                                         <tbody class="table-hover">
-                                            <tr><td class="text-left">Photo & video documentation</td></tr>
+                                            <tr><td class="text-left">6hrs Photo & video documentation</td></tr>
                                             <tr><td class="text-left">Cinematic video clip</td></tr>
+                                            <tr><td class="text-left">2 pcs of 40x50cm photo</td></tr>
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
-                                            <tr><td class="text-left"><br/></td></tr>
                                             <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.500</td></tr>
                                         </tbody>
                                     </table>
                                 </div>
                             </div>
                         </div>
-                    </div><br/><br/>
+                    </div><br/>
                     <div class="row mb-4">
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 mb-4 mb-lg-0">
                             <div class="feature-box feature-box-style-2 align-items-center">
                                 <div class="feature-box-info">
                                     <table class="table-fill">
                                         <thead><tr><th class="text-center" style="padding-bottom: 38px;">Akad & Wedding (same day)</th></tr></thead>
                                         <tbody class="table-hover">
                                             <tr><td class="text-left">Photo & video documentation</td></tr>
-                                            <tr><td class="text-left">Medium photo album (50 Photo)</td></tr>
-                                            <tr><td class="text-left">19R photo</td></tr>
+                                            <tr><td class="text-left">Medium photobook album (50 Photo)</td></tr>
+                                            <tr><td class="text-left">40x50cm photo</td></tr>
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
                                             <tr><td class="text-left"><br/></td></tr>
-                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 2.900</td></tr>
+                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 2.700</td></tr>
                                         </tbody>
                                     </table>
                                 </div>
@@ -275,9 +284,9 @@
                                         <thead><tr><th class="text-center">Outdoor Pre-Wedding, Akad & Wedding (same day)</th></tr></thead>
                                         <tbody class="table-hover">
                                             <tr><td class="text-left">Photo & video documentation</td></tr>
-                                            <tr><td class="text-left">Medium photo album (50 Photo)</td></tr>
+                                            <tr><td class="text-left">Medium photobook album (50 Photo)</td></tr>
                                             <tr><td class="text-left">Cinematic video clip (Prewedding)</td></tr>
-                                            <tr><td class="text-left">19R photo</td></tr>
+                                            <tr><td class="text-left">40x50cm photo</td></tr>
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
                                             <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 3.700</td></tr>
                                         </tbody>
@@ -296,13 +305,13 @@
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
                                             <tr><td class="text-left"><br/></td></tr>
                                             <tr><td class="text-left"><br/></td></tr>
-                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.500</td></tr>
+                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.200</td></tr>
                                         </tbody>
                                     </table>
                                 </div>
                             </div>
                         </div>
-                    </div><br/><br/>
+                    </div><br/>
                     <div class="row mb-4">
                         <div class="col-lg-4 mb-4 mb-lg-0">
                             <div class="feature-box feature-box-style-2 align-items-center">
@@ -311,15 +320,15 @@
                                         <thead><tr><th class="text-center">Anniversary</th></tr></thead>
                                         <tbody class="table-hover">
                                             <tr><td class="text-left">Photo & video documentation</td></tr>
-                                            <tr><td class="text-left">Cinematic video clip</td></tr>
                                             <tr><td class="text-left">16Gb Flashdisk <br/>(all photo & video after & before edit)</td></tr>
-                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.500</td></tr>
+                                            <tr><td class="text-left"><br/></td></tr>
+                                            <tr><td class="text-center" style="background:#4E5066;color:#FFFFFF;font-size:1.50em;">IDR 1.200</td></tr>
                                         </tbody>
                                     </table>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 mb-4 mb-lg-0">
                             <div class="feature-box feature-box-style-2 align-items-center">
                                 <div class="feature-box-info">
                                     <table class="table-fill">
@@ -349,7 +358,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div><br/><br/>
+                    </div><br/>
                     <div class="row mb-4">
                         <div class="col-lg-5 mb-4 mb-lg-0">
                             <div class="feature-box feature-box-style-2 align-items-center">
@@ -358,16 +367,9 @@
                                         <thead><tr><th class="text-center"  colspan="3">Additional</th></tr></thead>
                                         <tbody class="table-hover">
                                             <tr>
-                                                <td class="text-left">Upgrade to big photo album (100 Photo)</td>
+                                                <td class="text-left">Upgrade to big photobook album (100 Photo)</td>
                                                 <td>IDR 100</td>
                                             </tr>
-                                            <tr>
-                                                <td class="text-left">Upgrade to 40x50cm photo</td>
-                                                <td>IDR 150</td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-left">Additional 19R photo</td>
-                                                <td>IDR 150</td>
                                             <tr>
                                                 <td class="text-left">Additional 40x50cm photo</td>
                                                 <td>IDR 300</td>
@@ -383,6 +385,10 @@
                                             <tr>
                                                 <td class="text-left">Drone per 1 battery (20 Min)</td>
                                                 <td>IDR 600</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-left">BODETABEK location</td>
+                                                <td>IDR 150</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -436,7 +442,7 @@
             </section>
 
 
-            <section class="p-0 m-0">
+<!--            <section class="p-0 m-0">
                 <div class="container-fluid p-0">
                     <div class="owl-carousel owl-theme m-0" data-plugin-options="{'items': 6, 'loop': true, 'dots': false, 'nav': false, 'autoplay': true, 'autoplayTimeout': 3000}">
                         <div>
@@ -468,5 +474,5 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section>-->
         </div>

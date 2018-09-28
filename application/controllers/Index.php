@@ -27,6 +27,7 @@ class Index extends CI_Controller {
             
 	public function index()
 	{
+            redirect (base_url('contact'));
             $data=array(
                 'menu'=>1
             );
